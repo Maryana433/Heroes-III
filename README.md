@@ -4,4 +4,4 @@ My team was responsible for the economic part of the game (gui and logic). Proje
 It is a clone of Heroes 3. 
 There are 2 players. At the beginning they buy creatures, artefacts, spells and skills and after that they fight. 
 with the creatures/spells/skills/artifacts they bought. 
-The main goal of this project was to understand that patterns and good code are very important in programming and how to work between teams. between teams. 
+The main goal of this project was to understand that patterns and clean code are very important in programming and how to organize work between teams.
